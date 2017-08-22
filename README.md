@@ -1,3 +1,9 @@
+### TBBD Beginner series
+
+1) Hello World contract - https://www.youtube.com/watch?v=nqw4FeYQBxc
+
+2) Simple Crowdfunding contract - https://www.youtube.com/watch?v=UPmHjUTkxqs
+
 ### Documentation
 
 Solidity documentation - http://solidity.readthedocs.io/en/develop/index.html
