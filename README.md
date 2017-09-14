@@ -27,3 +27,5 @@ ConsenSys Academy Resources - https://consensys.net/academy/resources/
 Ethereum stack exchange - https://ethereum.stackexchange.com/
 
 Cryptopals challenges - https://cryptopals.com/
+
+Zastrin Course - https://www.zastrin.com
