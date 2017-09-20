@@ -20,6 +20,8 @@ Smart contract best practices - https://github.com/ConsenSys/smart-contract-best
 
 Onward with Ethereum Smart Contract Security - https://blog.zeppelin.solutions/onward-with-ethereum-smart-contract-security-97a827e47702
 
+Writing Upgradeable contracts in Solidity - https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88
+
 ### Other useful stuff
 
 ConsenSys Academy Resources - https://consensys.net/academy/resources/
