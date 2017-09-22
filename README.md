@@ -22,6 +22,8 @@ Onward with Ethereum Smart Contract Security - https://blog.zeppelin.solutions/o
 
 Writing Upgradeable contracts in Solidity - https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88
 
+Proxy Libraries in Solidity - https://blog.zeppelin.solutions/proxy-libraries-in-solidity-79fbe4b970fd
+
 ### Other useful stuff
 
 ConsenSys Academy Resources - https://consensys.net/academy/resources/
