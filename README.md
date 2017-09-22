@@ -4,6 +4,8 @@
 
 2) Simple Crowdfunding contract - https://www.youtube.com/watch?v=UPmHjUTkxqs
 
+3) ERC20 Token Demo - https://www.youtube.com/watch?v=3-h4OFc-aZk
+
 ### Documentation
 
 Solidity documentation - http://solidity.readthedocs.io/en/develop/index.html
