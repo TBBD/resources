@@ -24,6 +24,10 @@ Writing Upgradeable contracts in Solidity - https://blog.colony.io/writing-upgra
 
 Proxy Libraries in Solidity - https://blog.zeppelin.solutions/proxy-libraries-in-solidity-79fbe4b970fd
 
+Library Driven Development in Solidity - https://blog.aragon.one/library-driven-development-in-solidity-2bebcaf88736
+
+Testing for throws in truffle Solidity tests - http://truffleframework.com/tutorials/testing-for-throws-in-solidity-tests
+
 ### Other useful stuff
 
 ConsenSys Academy Resources - https://consensys.net/academy/resources/
