@@ -30,6 +30,11 @@ Library Driven Development in Solidity - https://blog.aragon.one/library-driven-
 
 Testing for throws in truffle Solidity tests - http://truffleframework.com/tutorials/testing-for-throws-in-solidity-tests
 
+### Security
+
+Solidity anti-patterns: Fun with inheritance DAG abuse - https://pdaian.com/blog/solidity-anti-patterns-fun-with-inheritance-dag-abuse/
+
+
 ### Other useful stuff
 
 Ethereum Improvement Proposals - https://github.com/ethereum/EIPs/issues
