@@ -32,6 +32,8 @@ Testing for throws in truffle Solidity tests - http://truffleframework.com/tutor
 
 ### Other useful stuff
 
+Ethereum Improvement Proposals - https://github.com/ethereum/EIPs/issues
+
 ConsenSys Academy Resources - https://consensys.net/academy/resources/
 
 Ethereum stack exchange - https://ethereum.stackexchange.com/
