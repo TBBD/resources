@@ -20,7 +20,9 @@ Monax guides - https://monax.io/docs/solidity/
 
 Smart contract best practices - https://github.com/ConsenSys/smart-contract-best-practices
 
-Onward with Ethereum Smart Contract Security - https://blog.zeppelin.solutions/onward-with-ethereum-smart-contract-security-97a827e47702
+Testing for throws in truffle Solidity tests - http://truffleframework.com/tutorials/testing-for-throws-in-solidity-tests
+
+### Upgrading contracts
 
 Writing Upgradeable contracts in Solidity - https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88
 
@@ -28,11 +30,16 @@ Proxy Libraries in Solidity - https://blog.zeppelin.solutions/proxy-libraries-in
 
 Library Driven Development in Solidity - https://blog.aragon.one/library-driven-development-in-solidity-2bebcaf88736
 
-Testing for throws in truffle Solidity tests - http://truffleframework.com/tutorials/testing-for-throws-in-solidity-tests
+Upgradeable smart contracts - https://ethereum.stackexchange.com/questions/2404/upgradeable-smart-contracts/190#190
+
 
 ### Security
 
+Onward with Ethereum Smart Contract Security - https://blog.zeppelin.solutions/onward-with-ethereum-smart-contract-security-97a827e47702
+
 Solidity anti-patterns: Fun with inheritance DAG abuse - https://pdaian.com/blog/solidity-anti-patterns-fun-with-inheritance-dag-abuse/
+
+Lessons Learnt from the Underhanded Solidity Contest - https://medium.com/@chriseth/lessons-learnt-from-the-underhanded-solidity-contest-8388960e09b1
 
 
 ### Other useful stuff
