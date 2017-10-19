@@ -32,6 +32,7 @@ Library Driven Development in Solidity - https://blog.aragon.one/library-driven-
 
 Upgradeable smart contracts - https://ethereum.stackexchange.com/questions/2404/upgradeable-smart-contracts/190#190
 
+upgradeable.sol by Arachnid - https://gist.github.com/Arachnid/4ca9da48d51e23e5cfe0f0e14dd6318f
 
 ### Security
 
@@ -49,6 +50,8 @@ Ethereum Improvement Proposals - https://github.com/ethereum/EIPs/issues
 ConsenSys Academy Resources - https://consensys.net/academy/resources/
 
 Ethereum stack exchange - https://ethereum.stackexchange.com/
+
+Cryptoeconomics resources - https://github.com/snario/awesome-cryptoeconomics
 
 Cryptopals challenges - https://cryptopals.com/
 
