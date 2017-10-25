@@ -51,6 +51,8 @@ ConsenSys Academy Resources - https://consensys.net/academy/resources/
 
 Ethereum stack exchange - https://ethereum.stackexchange.com/
 
+Ethereum Virtual Machine resources - https://github.com/pirapira/awesome-ethereum-virtual-machine
+
 Cryptoeconomics resources - https://github.com/snario/awesome-cryptoeconomics
 
 Cryptopals challenges - https://cryptopals.com/
