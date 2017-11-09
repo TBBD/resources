@@ -1,4 +1,4 @@
-This aims to be a comprehensive list of resources for all levels of engineers hoping to break into blockchain development.
+This aims to be a comprehensive list of resources for all levels of engineers hoping to break into blockchain development. Though this is currently Ethereum focused, please feel free to add any material from other blockchains.
 
 ### TBBD Beginner series
 
