@@ -10,14 +10,6 @@
 
 5) Using libraries - https://www.youtube.com/watch?v=M5v-H1oKBGU
 
-### Documentation
-
-Solidity documentation - http://solidity.readthedocs.io/en/develop/index.html
-
-Truffle documentation - http://truffleframework.com/docs/
-
-Zeppelin documentation - http://zeppelin-solidity.readthedocs.io/en/latest/index.html
-
 ### Best Practices and Programming models
 
 Monax guides - https://monax.io/docs/solidity/
@@ -25,18 +17,6 @@ Monax guides - https://monax.io/docs/solidity/
 Smart contract best practices - https://github.com/ConsenSys/smart-contract-best-practices
 
 Testing for throws in truffle Solidity tests - http://truffleframework.com/tutorials/testing-for-throws-in-solidity-tests
-
-### Upgrading contracts
-
-Writing Upgradeable contracts in Solidity - https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88
-
-Proxy Libraries in Solidity - https://blog.zeppelin.solutions/proxy-libraries-in-solidity-79fbe4b970fd
-
-Library Driven Development in Solidity - https://blog.aragon.one/library-driven-development-in-solidity-2bebcaf88736
-
-Upgradeable smart contracts - https://ethereum.stackexchange.com/questions/2404/upgradeable-smart-contracts/190#190
-
-upgradeable.sol by Arachnid - https://gist.github.com/Arachnid/4ca9da48d51e23e5cfe0f0e14dd6318f
 
 ### Security
 
@@ -50,11 +30,31 @@ Solidity anti-patterns: Fun with inheritance DAG abuse - https://pdaian.com/blog
 
 Lessons Learnt from the Underhanded Solidity Contest - https://medium.com/@chriseth/lessons-learnt-from-the-underhanded-solidity-contest-8388960e09b1
 
-## Cryptoeconomics and distributed systems research
+### Cryptoeconomics and distributed systems research
 
 Blockstack reading list - https://github.com/blockstack/reading-list
 
 Cryptoeconomics resources - https://github.com/snario/awesome-cryptoeconomics
+
+### Upgrading contracts
+
+Writing Upgradeable contracts in Solidity - https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88
+
+Proxy Libraries in Solidity - https://blog.zeppelin.solutions/proxy-libraries-in-solidity-79fbe4b970fd
+
+Library Driven Development in Solidity - https://blog.aragon.one/library-driven-development-in-solidity-2bebcaf88736
+
+Upgradeable smart contracts - https://ethereum.stackexchange.com/questions/2404/upgradeable-smart-contracts/190#190
+
+upgradeable.sol by Arachnid - https://gist.github.com/Arachnid/4ca9da48d51e23e5cfe0f0e14dd6318f
+
+### Documentation
+
+Solidity documentation - http://solidity.readthedocs.io/en/develop/index.html
+
+Truffle documentation - http://truffleframework.com/docs/
+
+Zeppelin documentation - http://zeppelin-solidity.readthedocs.io/en/latest/index.html
 
 ### Other useful stuff
 
