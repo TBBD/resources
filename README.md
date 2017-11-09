@@ -1,3 +1,5 @@
+This aims to be a comprehensive list of resources for all levels of engineers hoping to break into blockchain development.
+
 ### TBBD Beginner series
 
 1) Hello World contract - https://www.youtube.com/watch?v=nqw4FeYQBxc
