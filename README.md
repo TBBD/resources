@@ -58,6 +58,10 @@ Truffle documentation - http://truffleframework.com/docs/
 
 Zeppelin documentation - http://zeppelin-solidity.readthedocs.io/en/latest/index.html
 
+Web3.js documentation - https://web3js.readthedocs.io/en/1.0/
+
+Ethers.js documentation - https://docs.ethers.io/ethers.js/html/
+
 ### Other useful stuff
 
 Ethereum Improvement Proposals - https://github.com/ethereum/EIPs/issues
@@ -71,3 +75,5 @@ Ethereum Virtual Machine resources - https://github.com/pirapira/awesome-ethereu
 Cryptopals challenges - https://cryptopals.com/
 
 Zastrin Course - https://www.zastrin.com
+
+Parity's Rust Ethereum Tools - https://github.com/paritytech?language=rust
