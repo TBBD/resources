@@ -6,6 +6,10 @@
 
 3) ERC20 Token Demo - https://www.youtube.com/watch?v=3-h4OFc-aZk
 
+4) Dependencies and importing contracts - https://www.youtube.com/watch?v=xtm1hOhaCjs
+
+5) Using libraries - https://www.youtube.com/watch?v=M5v-H1oKBGU
+
 ### Documentation
 
 Solidity documentation - http://solidity.readthedocs.io/en/develop/index.html
@@ -36,12 +40,21 @@ upgradeable.sol by Arachnid - https://gist.github.com/Arachnid/4ca9da48d51e23e5c
 
 ### Security
 
+Hack this contract - http://hackthiscontract.io/
+
+Ethernaut by Zeppelin - https://ethernaut.zeppelin.solutions/
+
 Onward with Ethereum Smart Contract Security - https://blog.zeppelin.solutions/onward-with-ethereum-smart-contract-security-97a827e47702
 
 Solidity anti-patterns: Fun with inheritance DAG abuse - https://pdaian.com/blog/solidity-anti-patterns-fun-with-inheritance-dag-abuse/
 
 Lessons Learnt from the Underhanded Solidity Contest - https://medium.com/@chriseth/lessons-learnt-from-the-underhanded-solidity-contest-8388960e09b1
 
+## Cryptoeconomics and distributed systems research
+
+Blockstack reading list - https://github.com/blockstack/reading-list
+
+Cryptoeconomics resources - https://github.com/snario/awesome-cryptoeconomics
 
 ### Other useful stuff
 
@@ -52,8 +65,6 @@ ConsenSys Academy Resources - https://consensys.net/academy/resources/
 Ethereum stack exchange - https://ethereum.stackexchange.com/
 
 Ethereum Virtual Machine resources - https://github.com/pirapira/awesome-ethereum-virtual-machine
-
-Cryptoeconomics resources - https://github.com/snario/awesome-cryptoeconomics
 
 Cryptopals challenges - https://cryptopals.com/
 
