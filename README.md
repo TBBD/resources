@@ -1,5 +1,12 @@
 This aims to be a comprehensive list of resources for all levels of engineers hoping to break into blockchain development. Though this is currently Ethereum focused, please feel free to add any material from other blockchains.
 
+### How do blockchains and smart contracts work?
+
+- Portia Burton: Bitcoin, Blockchain and Node - https://www.youtube.com/watch?v=QWHjp_nzxaY
+- Preethi Kasireddy: How does Ethereum work, anyway? - https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369
+- From "What is Blockchain?" to building a blockchain in less than an hour - https://medium.freecodecamp.org/from-what-is-blockchain-to-building-a-blockchain-within-an-hour-4e738efc819d
+- A 101 Noob Intro to Programming Smart Contracts on Ethereum - https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4
+
 ### TBBD Beginner series
 
 1) Hello World contract - https://www.youtube.com/watch?v=nqw4FeYQBxc
@@ -11,6 +18,8 @@ This aims to be a comprehensive list of resources for all levels of engineers ho
 4) Dependencies and importing contracts - https://www.youtube.com/watch?v=xtm1hOhaCjs
 
 5) Using libraries - https://www.youtube.com/watch?v=M5v-H1oKBGU
+
+6) Writing upgradeable solidity contracts - https://www.youtube.com/watch?v=KU5s6SjZILg
 
 ### Best Practices and Programming models
 
