@@ -1,12 +1,14 @@
 This aims to be a comprehensive list of resources for all levels of engineers hoping to break into blockchain development. Though this is currently Ethereum focused, please feel free to add any material from other blockchains.
 
-### How do blockchains and smart contracts work?
+### New to blockchain and smart contracts
 
 - Portia Burton: Bitcoin, Blockchain and Node - https://www.youtube.com/watch?v=QWHjp_nzxaY
 - ConsenSys Academy Resources - https://consensys.net/academy/resources/
 - From "What is Blockchain?" to building a blockchain in less than an hour - https://medium.freecodecamp.org/from-what-is-blockchain-to-building-a-blockchain-within-an-hour-4e738efc819d
 - Preethi Kasireddy: How does Ethereum work, anyway? - https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369
 - A 101 Noob Intro to Programming Smart Contracts on Ethereum - https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4
+- The Hitchhiker's Guide to Smart Contract in Ethereum - https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05
+- Full-stack smart contract development - https://hackernoon.com/full-stack-smart-contract-development-fccdfe5176ce
 
 ### TBBD Beginner series
 
@@ -16,6 +18,12 @@ This aims to be a comprehensive list of resources for all levels of engineers ho
 4) Dependencies and importing contracts - https://www.youtube.com/watch?v=xtm1hOhaCjs
 5) Using libraries - https://www.youtube.com/watch?v=M5v-H1oKBGU
 6) Writing upgradeable solidity contracts - https://www.youtube.com/watch?v=KU5s6SjZILg
+
+### Writing tests
+
+- Testing Smart Contract with Truffle - https://medium.com/level-k/testing-smart-contracts-with-truffle-7849b3d9961
+- Testing Your Smart Contracts With JavaScript (Including Async/Await Promises) - https://medium.com/@gus_tavo_guim/testing-your-smart-contracts-with-javascript-40d4edc2abed
+- Testing Solidity with Truffle and Async/Await - https://medium.com/hello-sugoi/testing-solidity-with-truffle-and-async-await-396e81c54f93
 
 ### Best Practices and Programming models
 
