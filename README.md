@@ -24,6 +24,7 @@ This aims to be a comprehensive list of resources for all levels of engineers ho
 - Testing Smart Contract with Truffle - https://medium.com/level-k/testing-smart-contracts-with-truffle-7849b3d9961
 - Testing Your Smart Contracts With JavaScript (Including Async/Await Promises) - https://medium.com/@gus_tavo_guim/testing-your-smart-contracts-with-javascript-40d4edc2abed
 - Testing Solidity with Truffle and Async/Await - https://medium.com/hello-sugoi/testing-solidity-with-truffle-and-async-await-396e81c54f93
+- Beautifying Your Smart Contract Tests With JavaScript - https://medium.com/@gus_tavo_guim/beautifying-your-smart-contract-tests-with-javascript-4d284efcb2e8
 
 ### Best Practices and Programming models
 
