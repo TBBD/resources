@@ -9,6 +9,7 @@ This aims to be a comprehensive list of resources for all levels of engineers ho
 - A 101 Noob Intro to Programming Smart Contracts on Ethereum - https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4
 - The Hitchhiker's Guide to Smart Contract in Ethereum - https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05
 - Full-stack smart contract development - https://hackernoon.com/full-stack-smart-contract-development-fccdfe5176ce
+- More Solidity and Ethereum introduction tutorials - https://www.youtube.com/watch?v=v_hU0jPtLto&list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg , https://www.youtube.com/watch?v=rmtsh7Q7sbE&list=PLV1JDFUtrXpFh85G-Ddyy2kLSafaB9biQ , https://www.youtube.com/watch?v=KU6bvciWgRE&list=PL0lNJEnwfVVMuX2Ds19Wj_7Mcze3FDJr3
 
 ### TBBD Beginner series
 
