@@ -32,6 +32,7 @@ This aims to be a comprehensive list of resources for all levels of engineers ho
 - Monax guides - https://monax.io/docs/solidity/
 - Smart contract best practices - https://github.com/ConsenSys/smart-contract-best-practices
 - Testing for throws in truffle Solidity tests - http://truffleframework.com/tutorials/testing-for-throws-in-solidity-tests
+Debugging Smart Contracts with Truffle Debugger: A Practical Approach - https://www.mayowatudonu.com/blockchain/debugging-smartcontracts-with-truffle-debugger
 
 ### Security
 
